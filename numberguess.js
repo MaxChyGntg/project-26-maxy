@@ -35,4 +35,3 @@ submit.onclick = function() {
         }
     }
 }
-console.log(random);
